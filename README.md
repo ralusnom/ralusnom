@@ -6,7 +6,7 @@
 - 🛰 Mostly I'm writing code that matches the Java, PHP or JavaScript language
 - 🔭 I’m currently working on **audibene's software tools**
 - 💬 Ask me about **Spring Boot, Symfony, AWS, Data Privacy and DevOps**
-- 📫 How to reach me **text me on linkedin**
+- 📫 How to reach me <a href="https://linkedin.com/in/ralusnom" target="blank">**text me on linkedin**</a>
 
 <hr>
 <h3>The tools I used in my latter dev phase</h3>
