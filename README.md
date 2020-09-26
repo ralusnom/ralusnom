@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Metin</h1>
-<h3 align="center">A developer of fronts, backs and stacks straight outta Berlin, a small city in Germany.</h3>
+<h1>Hi 👋, I'm Metin</h1>
+<h3>A developer of fronts, backs and stacks straight outta Berlin, a small city in Germany.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ralusnom" alt="ralusnom" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=ralusnom" alt="ralusnom" /></p>
 
-- 🛰 Mostly I'm writing code that matches the Java, PHP or JavaScript language
-- 🔭 I’m currently working on **audibene's software tools**
+<p></p>
+<hr>
+<h3>My Me</h3>
+
+- 🛰 Mostly I'm writing code that matches the **Java, PHP or JavaScript** language definitions.
+- 🔭 I’m currently working on **audibene's software tools**, mostly finance and marketing related projects.
 - 💬 Ask me about **Spring Boot, Symfony, AWS, Data Privacy and DevOps**
+- 🌍 Since I come from web development, you can also ask me how to **create front-end applications** and **how to optimize** them.
+- 🏃‍ You can also talk to me about **🏃‍ marathons, 🏎 RC models , 🎹 synthesizers and 🍽 cooking**.
 - 📫 How to reach me <a href="https://linkedin.com/in/ralusnom" target="blank">**text me on linkedin**</a>
 
+<p></p>
 <hr>
-<h3>The tools I used in my latter dev phase</h3>
+<h3>My Stack</h3>
+<p>The tools I used in my latter dev phase</p>
 
  <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -39,17 +47,15 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
- 
-
-
+<p></p>
 <hr>
 
-<h3>My Contribution here</h3>
-<div>As you can see here, I'm very powerful when writing code on Github. Good skills I have acquired in the last 15 years of development.
+<h3>My Contribution</h3>
+<p>As you can see here, I'm very powerful when writing code on Github. Good skills I have acquired in the last 15 years of development.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralusnom&show_icons=true" alt="ralusnom" /></p>
 </div>
 
-<p>
-  
-<h3>Contact me!</h3>
+<p></p>
+<hr>
+<h3>My Contact</h3>
 <a href="https://linkedin.com/in/ralusnom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ralusnom" height="30" width="30" /></a>
