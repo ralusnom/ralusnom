@@ -12,7 +12,7 @@
 - 💬 Ask me about **Spring Boot, Symfony, AWS, Data Privacy and DevOps**
 - 🌍 Since I come from web development, you can also ask me how to **create front-end applications** and **how to optimize** them.
 - 🏃‍ You can also talk to me about **🏃‍ marathons, 🏎 RC models , 🎹 synthesizers and 🍽 cooking**.
-- 📫 How to reach me <a href="https://linkedin.com/in/ralusnom" target="blank">**text me on linkedin**</a>
+- 📫 How to reach me? <a href="https://linkedin.com/in/ralusnom" target="blank">**Text me on Linkedin!**</a>
 
 <p></p>
 <hr>
