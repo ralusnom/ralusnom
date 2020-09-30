@@ -51,7 +51,7 @@
 <hr>
 
 <h3>My Contribution</h3>
-<p>As you can see here, I'm very powerful when writing code on Github. Good skills I have acquired in the last 15 years of development.</p>
+<p>As you can see here, I'm very powerful in writing code on Github. Good skills I have acquired in the last 15 years of development.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralusnom&show_icons=true" alt="ralusnom" /></p>
 </div>
 
