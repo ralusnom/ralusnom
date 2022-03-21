@@ -8,8 +8,8 @@
 <h3>My Me</h3>
 
 - 🛰 Mostly I'm writing code that matches the **Java, PHP or JavaScript** language definitions.
-- 🔭 I’m currently working on **audibene's software tools**, mostly finance and marketing related projects.
-- 💬 Ask me about **Spring Boot, Symfony, AWS, Data Privacy and DevOps**
+- 🔭 I’m currently working on **krieger digital's security pipelines and cloud infrastructure**.
+- 💬 Ask me about **Securitry and Cloud Engineering**
 - 🌍 Since I come from web development, you can also ask me how to **create front-end applications** and **how to optimize** them.
 - 🏃‍ You can also talk to me about **🏃‍ marathons, 🏎 RC models , 🎹 synthesizers and 🍽 cooking**.
 - 📫 How to reach me? <a href="https://linkedin.com/in/ralusnom" target="blank">**Text me on Linkedin!**</a>
@@ -51,7 +51,7 @@
 <hr>
 
 <h3>My Contribution</h3>
-<p>As you can see here, I'm very powerful in writing code on Github. Good skills I have acquired in the last 15 years of development.</p>
+<p>As you can see here, I'm very powerful in writing code on Github. Good skills I have acquired in the last 17 years of development.</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralusnom&show_icons=true" alt="ralusnom" /></p>
 </div>
 
