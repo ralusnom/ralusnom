@@ -1,25 +1,59 @@
-<h1>Hi 👋, I'm Metin</h1>
-<h3>A developer of fronts, backs and stacks straight outta Berlin, a small city in Germany.</h3>
+<div align="center">
 
-<p><img src="https://komarev.com/ghpvc/?username=ralusnom" alt="ralusnom" /></p>
+<p><samp>SOFTWARE · SYSTEMS · PEOPLE</samp></p>
 
-<p></p>
-<hr>
-<h3>My Me</h3>
+<h1>Hi, I'm Metin.</h1>
 
-- 🛰 Mostly I'm writing code that matches the **Java, PHP or JavaScript** language definitions.
-- 🔭 I’m currently working on **krieger digital's security pipelines and cloud infrastructure**.
-- 💬 Ask me about **Securitry and Cloud Engineering**
-- 🌍 Since I come from web development, you can also ask me how to **create front-end applications** and **how to optimize** them.
-- 🏃‍ You can also talk to me about **🏃‍ marathons, 🏎 RC models , 🎹 synthesizers and 🍽 cooking**.
-- 📫 How to reach me? <a href="https://linkedin.com/in/ralusnom" target="blank">**Text me on Linkedin!**</a>
+<h3>Frontends, backends, AI-powered apps &amp; the cloud behind them.</h3>
 
-<h3>My Contribution</h3>
-<p>As you can see here, I'm very powerful in writing code on GitHub 🤣.</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ralusnom&show_icons=true" alt="ralusnom" /></p>
+<p>All from Berlin, a small city in Germany.</p>
+
+<p>
+  <a href="https://metinet.de"><strong>metinet.de</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/metinoezkan/">LinkedIn</a>
+</p>
+
 </div>
 
-<p></p>
-<hr>
-<h3>My Contact</h3>
-<a href="https://linkedin.com/in/ralusnom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ralusnom" height="30" width="30" /></a>
+---
+
+### From the interface to the infrastructure
+
+My roots are in web development. These days, I build software and platforms, lead engineering teams and help turn AI ideas into tools people can use.
+
+- **Software engineering** — Web applications, APIs and the architecture connecting them. I still care about a fast frontend.
+- **Cloud & security** — AWS platforms, delivery pipelines, observability and security built into everyday engineering.
+- **Applied AI** — LLM applications, MCP services and AI-assisted development, backed by hands-on implementation and review.
+- **Engineering teams** — Building teams, coaching engineers and helping people make sound technical decisions.
+
+Currently **Engineering Manager DevSecOps at Krieger Digital**, working across cloud infrastructure, security and AI enablement.
+
+<details>
+<summary><strong>A few tools of the trade</strong></summary>
+
+<br>
+
+**Languages**  
+`Java` · `PHP` · `Python` · `TypeScript` · `JavaScript`
+
+**Applications**  
+`Spring Boot` · `Symfony` · `React` · `Vue` · `FastAPI`
+
+**Platforms & delivery**  
+`AWS` · `Terraform` · `Docker` · `GitLab CI` · `GitHub Actions` · `Grafana`
+
+**AI & integration**  
+`MCP` · `AWS Bedrock` · `LangGraph` · `LiteLLM`
+
+</details>
+
+### Off the keyboard
+
+Marathons, RC models, synthesizers and cooking. Different kinds of tinkering. Same curiosity.
+
+---
+
+<p align="center">
+  <samp>BUILD SOMETHING. MAKE IT WORK. MAKE IT BETTER.</samp>
+</p>
